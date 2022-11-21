@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\bin\Debug\net6.0\test1_221122.exe
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\bin\Debug\net6.0\test1_221122.deps.json
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\bin\Debug\net6.0\test1_221122.runtimeconfig.json
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\bin\Debug\net6.0\test1_221122.dll
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\bin\Debug\net6.0\test1_221122.pdb
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.dll
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\refint\test1_221122.dll
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.pdb
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\test1_221122.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GIT_EDU\test1_221122\obj\Debug\net6.0\ref\test1_221122.dll
